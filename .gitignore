@@ -1,0 +1,5 @@
+webpack.config.js
+*.psd
+*.json
+node_modules/
+src/images/
